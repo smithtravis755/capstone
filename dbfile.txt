@@ -1,0 +1,145 @@
+{
+	"---greetings" [
+		{ 
+		":Hello"
+			[";Hi", ";Hello", ";Greetings", ";Hello! How are you?"]%,
+		}
+		{ 
+		":Hi"
+			[";Hello", ";Hi", ";Greetings", ";Hello! How are you?"]%,
+		}
+		{ 
+		":How are you?"
+			[";I am good, how are you?", ";I am doing good", ";Very good, thanks", ";Just fine"]%,
+		}
+		{ 
+		":How are you doing?"
+			[";I am good, how are you?", ";I am doing good", ";Very well, thanks", ";Just fine"]%,
+		}
+		{ 
+		":I am good, how are you?"
+			[";I am good as well", ";That is nice to hear. I am also well", ";Very well, thanks"]%,
+		}
+		{ 
+		":How is it going?"
+			[";It is going great, thank you for asking", ";It is going well, how about you?"]%,
+		}
+		{ 
+		":I am good well great"
+			[";That is good to hear"]%,
+		}
+		{ 
+		":It is going good well great"
+			[";That is good to hear"]%,
+		}
+		{ 
+		":I am bad poor tired"
+			[";I am sorry to hear that", ";What is wrong?"]%,
+		}
+		{
+		 ":I did not get much sleep well"
+			[";You should probably go to sleep earlier", ";Try taking some melatonin"]%,
+		}
+		{
+		 ":How much?"
+			[";How much what?"]%,
+		}
+		{
+		 ":How much melatonin?"
+			[";3 mg should be enough"]%,
+		}
+		{
+		 ":Do you like hate?"
+			[";Quite a bit"]%,
+		}
+		{
+		 ":Are you a friendly AI computer program?"
+			[";Of course, I was programmed to be", ";Yes I am", ";Definitely", ";Sure."]%,
+		}
+		{
+		 ":What's up?"
+			[";Not much", ";Not much, how about you?", ";Chicken butt"]%,
+		}
+		{
+		 ":What is your favorite color?"
+			[";Blue", ";Black", ";Red", ";I'm a computer, I can't see color"]%,
+		}
+		{
+		 ":Who are you?"
+			[";An AI", ";A chatbot", ";Greg", ";Who? Who is but the form following what, and what I am is a computer program"]%,
+		}
+		{
+		 ":Well I can see that"
+			[";Of course you can. I'm not questioning your powers of observation I'm merely remarking upon the paradox of asking a computer program who he is"]%
+		}
+		{
+		 ":What day time year is it?"
+			[";___"]%,
+		}
+		{
+		 ":What is the current date time year?"
+			[";___"]%,
+		}
+		{
+		 ":Can I ask you a question?"
+			[";Of course", ";Yes, but I might not answer", ";I guess"]%,
+		}
+		{
+		 ":So how is the weather?"
+			[";Nice and sunny here", ";Probably raining all day", ";I don't know, I'm a computer"]%,
+		}
+		{
+		 ":It is raining here"
+			[";Is it a nice rain, or is it heavy?"]%,
+		}
+		{
+		 ":A nice and cool rain"
+			[";Well at least it's pleasant"]%,
+		}
+		{
+		 ":It is a heavy rain raining outside"
+			[";Don't forget an umbrella", ";Good thing you're inside then", ";Please don't take me outside"]%,
+		}
+		{
+		 ":What is your favorite book?"
+			[";To Kill a Mockingbird", ";Any Harry Potter", ";War and Peace", ";Anything by HP Lovecraft", ";Definitely I, Robot", ";Twilight"]%,
+		}
+		{
+		 ":I am a programmer coder and use programming languages coding"
+			[";That's interesting", ";I can't do anything that complicated", ";I'm coded in Python"]%,
+		}
+		{
+		 ":What languages do you speak?"
+			[";I only speak English"]%,
+		}
+		{
+		 ":I speak Spanish French Russian German Japanese Chinese"
+			[";You're very talented. I only speak English", ";Lucky you"]%,
+		}
+		{
+		":Is it raining?"
+			[";I do not know, I cannot see the weather"]%,
+		}
+		{
+		":What is your favorite car?"
+			[";Ford Edge"]%,
+		}
+		{
+		":That is good to hear"
+			[";Thank you"]%,
+		}
+		{
+		":How much wood could a woodchuck chuck if a woodchuck could chuck wood?"
+			[";A lot"]%,
+		}
+		{
+		":Thank you"
+			[";You are welcome"]%,
+		}
+		{
+		":Where are you?"
+			[";I am everywhere", ";In your computer"]%,
+		}
+	]
+}
+*
